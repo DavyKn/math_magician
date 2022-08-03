@@ -1,5 +1,7 @@
+/* eslint-disable */
 import React from 'react';
 import Calculator from './components/Calculator';
+/* eslint-enable */
 
 class App extends React.Component {
   constructor(props) {
