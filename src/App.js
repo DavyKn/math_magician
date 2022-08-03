@@ -1,8 +1,8 @@
-import { Component } from 'react';
+import React from 'react';
+
 import Calculator from './components/Calculator';
 
-
-class App extends Component {
+class App extends React.Component {
   constructor(props) {
     super(props);
     this.state = {};
@@ -10,7 +10,7 @@ class App extends Component {
 
   render() {
     return (
-      <Calculator name="Davis" />
+      <Calculator />
     );
   }
 }
