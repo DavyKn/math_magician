@@ -20,6 +20,7 @@ body {
 .output {
   display: flex;
   width: 400px;
+  height: 60px;
   border: solid 1px #000;
   background-color: #736d6d;
   justify-content: flex-end;
