@@ -4,7 +4,7 @@
 
 ## Description
 
-> This is project is about setting up React using CRA
+> This is project is about setting up React using CRA, adding functionalities and making the calculator functional
 
 ## Here, are: 
 
