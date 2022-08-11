@@ -21,7 +21,8 @@ https://github.com/DavyKn/math_magician
 - CSS
 - React Dom/React Router Dom
 
-## Live Demo
+## Live Site
+https://nimble-mandazi-280c21.netlify.app/
 
 ## Get Started
 
