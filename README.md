@@ -4,7 +4,8 @@
 
 ## Description
 
-> This is project is about setting up React using CRA, adding functionalities and making the calculator functional
+> This is project is about designing a webpage using React Router that has 3 interface, Home page,
+> calculator page and Qoute page.The calculator is functional and can do some mathematics there.
 
 ## Here, are: 
 
@@ -17,6 +18,8 @@ https://github.com/DavyKn/math_magician
 ## Built With
 
 - React
+- CSS
+- React Dom/React Router Dom
 
 ## Live Demo
 
